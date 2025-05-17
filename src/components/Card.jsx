@@ -7,10 +7,10 @@ function Card({title, description,imageUrl, ...props}) {
     
     >
            <div className='text-black w-1/2 text-center flex items-center justify-center flex-col p-4'>
-             <h1 className='text-3xl font-bold mb-2 text-gray-800 '>
+             <h1 className='text-3xl font-bold -tracking-widest mb-2 text-gray-800 '>
                  {title}
              </h1>
-              <p className='text-gray-600 leading-relaxed'>
+              <p className='text-gray-600  font-serif font-bold leading-relaxed'>
                 {description}
               </p>
            </div>
