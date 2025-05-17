@@ -16,6 +16,12 @@ function App() {
       description = " cool chick yo"
       imageUrl= "src/assets/zhanna-rinatova-cifs1-g0Da8-unsplash.jpg" 
       />
+      <Card 
+      title="sexy girl"
+      description= " sexy chick yo"
+      imageUrl="https://i.pinimg.com/736x/d0/72/d9/d072d9930bab93ce0ce90d85b96b6ac8.jpg" 
+      
+      />
    </div>
 
    
